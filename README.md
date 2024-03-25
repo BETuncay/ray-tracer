@@ -1,8 +1,7 @@
 # ray-tracer
 
-Implementation of Peter Shirley, Trevor David Black and Steve Hollasch ray traced as described in "Ray Tracing in One Weekend".
-It is a simple implementation of ray tracing on the CPU.
-The algorithm described in the book is sped up via the use of threads.
+Implementation of CPU ray traces as described by Peter Shirley, Trevor David Black and Steve Hollasch in "Ray Tracing in One Weekend".
+The algorithm is sped up via the use of threads.
 
 # Bibtex
 ```
